@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pomcube.nzeloncity</string>
+				<string>com.pomcube.nzeloncity-e</string>
 				<key>bundle-version</key>
-				<string>2.3.15</string>
+				<string>3.0.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
