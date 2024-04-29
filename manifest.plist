@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pomcube.nzeloncity-e</string>
+				<string>com.pomcube.nzeloncity</string>
 				<key>bundle-version</key>
 				<string>3.0.1.1</string>
 				<key>kind</key>
